@@ -1,10 +1,10 @@
-# 🎉🎉🥳🥳Congratulations🥳🥳🎉🎉
+#Congratulations🥳🎉
 ## You've found Trevour Chidoti's Github Account. 
 
  
  Please feel free to take a look at my public repositories 📁 
  
-**Check out [my github page](traelincoln.github.io) too!**
+**Check out [my github page](traelincoln.github.io/myblog) too!**
 
 
 ## So, who is Trevour L Chidoti 👨🏿‍💼 anyway? 
