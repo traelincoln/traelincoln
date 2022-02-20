@@ -10,13 +10,13 @@ I am studying **Aeronautical Engineering** with The University of Zimbabwe, and 
 I enjoy reading books and designing computer programs. Right now I am really into building blogs and static web-pages, I am working on my personal blog using Jekyll and Github pages and I am also finding my voice as writer. I want to advance to building into more developed web-apps.<blockquote> My goal is to be able to write programs and build web-sites and apps proffesionally, as well as to graduate with an engineering degree by 2024.</blockquote>
 
 The languages that I am realy good at right now are
-- HTML 
-- CSS
-- JAVASCRIPT (including Jquery and Bootstrap)
-- PYTHON 
-- PHP
-- RUBY
-and the list grows longer every day. I am also really good with Git.
+  - HTML 
+  - CSS
+  - JAVASCRIPT (including Jquery and Bootstrap)
+  - PYTHON 
+  - PHP
+  - RUBY
+  - I am also really good with Git.
 
 ## My Hobbies ⛷️🎿
 Outside of school I also enjoy walking, reading and listening to music. I'm a Hip-Hop and RNB guy, but I also like reggae and pop music! And movies, I like movies too.
