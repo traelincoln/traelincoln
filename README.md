@@ -1,38 +1,25 @@
-# Congratulations🥳🎉
-## You've found Trevour Chidoti's Github Account. 
+# Congratulations🥳🎉 You've found Trevour Chidoti's Github Account. 
 
  
  Please feel free to take a look at my public repositories 📁 
  
-**Check out [my github page](traelincoln.github.io/myblog) too!**
+**Check out [My Google Search Page](traelincoln.github.io/cs50-websites)**
 
 
 ## So, who is Trevour L Chidoti 👨🏿‍💼 anyway? 
-Good Question. 
-I am a 26 yr old Aeronautical engineering student from Zimbabwe.
-I am studying engineering with the University of Zimbabwe and I am also learning computer science online with edx.
-
+I am a 26 year old Aeronautical engineering student from Zimbabwe. I'm doing my degree with University of Zimbabwe and I am also learning computer science online with edx.
 
 ## Skills and Hobbies🖥️🖱️📊⌨️
-I like to write and develop web apps in my spare time.
-I also learning how to make games, mobile apps and machine learning algorythmns.
-####
-I learnt how to code mostly by myself but I have had a lot of help from online communities like MDN, Stakeoverflow etc.
-####
-I have also taken a few courses from EDX, especially Havardx's CS50 program. And they have helped me become more tech savvy and gain some really useful programming languages.
-####
-My programming languages of choice are Javascript, Python, PHP, HTML and CSS. 
-I can also write in C/C++ and Java.
-####
-My goal is to be able to write apps and programs that can be used by ordinary people like to perform their daily takes better. But they end of the year 2022 I hope to have finished all online self taught classes and have deployed at least a dozen apps for public viewing.
-####
 
-I am currently working on a small budget calculator app along side several other projects
-
-~You can check it out on my github pages.~ (not yet)
+I am full time student, currently doing my third, so I am kinda busy with third year project right now. I'm designing a electric glider!
+But, when I'm not busy with that I like to write other computer programs. I am learning web-development using HTML, CSS, JAVASCRIPT AND PYTHON online via edx online. 
+And right now I am really into building blogs and static web-pages. I am working on my personal blog and I'm just exploring all many of the web-site building tools out there. My goal is to be able to write programs and build sites and app proffesionally. 
 
 ## Other Hobbies ⛷️🎿
-Outside of this I also enjoy running, playing tennis and skating. 
+Outside of this I also enjoy running, playing tennis and skating and cooking. 
+
+## This a list of all the pages that I have deployed live so far
+- [Search Page](traelincoln.github.io/cs50-websites)
 
 
 
