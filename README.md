@@ -23,5 +23,5 @@ Outside of school I also enjoy walking, reading and listening to music. I'm a Hi
 
 ## My Pages
 There are the pages that I have built and deployed so far:
-[A mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for project 0 cs50w
-[My Blog](https://traelincoln.github.io/traelincoln)
+- [A mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0
+- [My Blog](https://traelincoln.github.io/traelincoln).
