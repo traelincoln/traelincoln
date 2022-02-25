@@ -1,10 +1,9 @@
 ## Hello, Welcome to my Github Profile
 
 ## About Me
-My name is Trevour Chidoti, I am <span id="age">26 years old</span> and I am writer, blogger and full stake web developer by night. I am learning computer science and web development on line with [HavardX](cs50.harvard.edu/web) on [Edx](edx.org).
-During the day I am an engineering student. I am studying Aeronautical Engineering (aka aircraft design) with The University of Zimbabwe. Right now I am actually working a really cool glider for my 3rd year project.
+My name is Trevour Chidoti, I am <span id="age">26 years old</span>, I am an engineering student by day and a writer, blogger and full stake web developer by night. I am learning computer science and web development on line with [HavardX](cs50.harvard.edu/web) on [Edx](edx.org). I am studying Aeronautical Engineering (aka aircraft design) with The University of Zimbabwe.
 ## Web Skills
-I use Git, HTML, CSS, PHP, Python, Javascript, Ruby for web development. I also have some experience with Bootstrap and jquery. I am also working hard on building web apps with react and angular. For this website I also learnt how to use Jekyll. 
+I use Git, HTML, CSS, PHP, Python, Javascript, Ruby for web development. I have experience with, Jekyll, Github Pages, Bootstrap and Jquery and building web apps with React and other javascript frame works. For backends I use Django, PHP and Node. I can also integrate web apps with AI.
 ## Interests
 I like making educational content and sharing my demos on youtube, and I also enjoy writing and designing on my personal blogs. It pairs well with my skills and I get to talk directly to people and share some knowledge. Otherwise, I also enjoy playing tennis, listening to music and reading books. 
 
