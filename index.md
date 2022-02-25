@@ -8,7 +8,7 @@ I use Git, HTML, CSS, PHP, Python, Javascript, Ruby for web development. I also 
 Currently, I am interested in designing blogs, pairs well with my skills, but I am also working hard on building web apps with react and angular. I believe that is where my technical skills will truly shine. I like solving problems and also I enjoying designing UIs that are fun to use and reduce user frustration. I am in the early stages of developing some community centered projects that can help people to manage their financed and nutrition better.
 
 ## Hobbies
-I also enjoy playing tennis, listening to rap music and reading books, bot fiction and non-fiction. 
+I also enjoy playing tennis, listening to rap music and reading books, both fiction and non-fiction. 
 
 ## Works of interest
 ### Project 0: 
