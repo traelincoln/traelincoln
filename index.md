@@ -1,17 +1,35 @@
-## Hello, Welcome to my Github Profile
+# Congratulations, you've found Trevour Chidoti on Github. 
+
+This is my github account where you will find some of my work online.
+
+Please feel free to look round, you can clone or fork any of my public repositories 📁 or [visit my blog to learn more!](https://traelincoln.github.io/traelincoln)
+or the [mock google search page I built as well.](https://traelincoln.github.io/cs50w-websites)
 
 ## About Me
-My name is Trevour Chidoti, I am <span id="age">26 years old</span>, I am an engineering student by day and a writer, blogger and full stake web developer by night. I am learning computer science and web development on line with [HavardX](cs50.harvard.edu/web) on [Edx](edx.org). I am studying Aeronautical Engineering (aka aircraft design) with The University of Zimbabwe.
-## Web Skills
-I use Git, HTML, CSS, PHP, Python, Javascript, Ruby for web development. I have experience with, Jekyll, Github Pages, Bootstrap and Jquery and building web apps with React and other javascript frame works. For backends I use Django, PHP and Node. I can also integrate web apps with AI.
-## Interests
-I like making educational content and sharing my demos on youtube, and I also enjoy writing and designing on my personal blogs. It pairs well with my skills and I get to talk directly to people and share some knowledge. Otherwise, I also enjoy playing tennis, listening to music and reading books. 
+My name is Trevour L Chidoti, I am a writer, a developer and an engineering student from Harare.
+I am studying **Aeronautical Engineering** with The University of Zimbabwe, and I am learning web-development online with HavardX through Edx. 
+I enjoy reading books and designing computer programs. 
+Right now I am really into building blogs and static web-pages. 
+And I am also working on building more sophisticated web-apps using React and Angular.
+I have a personal blog that I am working on, but I am just finding my voice as writer. 
 
-## Works of interest
-### Project 0: 
-[The Google Homepage](traelincoln/cs50w-websites) -> Its mock of the google pages homepage that I made for cs50w project 0
-### Project 1:
-[wiki]
+## My Skills
+The programming languages that I am realy good at right now are
+  - HTML 
+  - CSS
+  - JAVASCRIPT (including Jquery and Bootstrap)
+  - PYTHON (including DJANGO and machine learning)
+  - PHP
+  - RUBY
+  - C/C++
+  - I am also really good with Git.
+
+## My Hobbies ⛷️🎿
+Outside of school I also enjoy, taking pictures, walking, reading and listening to music. I'm a Hip-Hop and RNB guy but I also like reggae and pop. And movies, I like movies too.
+
+## My Pages
+There are the pages that I have built and deployed so far:
+- [A mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0
 
 
 
