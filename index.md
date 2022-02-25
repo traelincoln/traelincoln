@@ -1,6 +1,7 @@
-## Hello, My name is Trevour Chidoti, (a.k.a traelincoln), Welcome to my Github Pages profile
+## Hello, My name is Trevour Chidoti, (a.k.a traelincoln)
+### Welcome to my Github Pages Profile
 
-### Markdown
+### About Me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
