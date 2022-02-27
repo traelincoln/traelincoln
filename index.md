@@ -1,4 +1,4 @@
-# Congratulations, you've found Trevour Chidoti on Github. 
+# Trevour Chidoti on Github. 
 
 This is my github account where you will find some of my work online.
 
