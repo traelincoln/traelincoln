@@ -1,4 +1,4 @@
-# Congratulations, you've found Trevour Chidoti on Github. 
+# traelincoln on Github. 
 
 This is my github account where you will find some of my work online.
 
@@ -7,11 +7,11 @@ or the [mock google search page I built as well.](https://traelincoln.github.io/
 
 ## About Me
 My name is Trevour L Chidoti, I am a writer, a developer and an engineering student from Harare.
-I am studying **Aeronautical Engineering** with The University of Zimbabwe, and I am learning web-development online with HavardX through Edx. 
-I enjoy reading books and designing computer programs. 
-Right now I am really into building blogs and static web-pages. 
-And I am also working on building more sophisticated web-apps using React and Angular.
-I have a personal blog that I am working on, but I am just finding my voice as writer. 
+I am doing **Aeronautical Engineering** with The University of Zimbabwe, and I am also learning web-development online with HavardX through Edx. So, i have a github to store all my projects safely online.
+I enjoy reading books, designing computer programs and aircraft. 
+When I am not reading up on how to optimize the aerodynamic efficiency for my third year design project, I will be reading up web-design. 
+I am really into blogs right now, I am actually on [my own blog][1] here on Github. 
+I like making beautiful interfaces using Bootstrap and Jquery. you can check out some of my work on [my blog][1] too.
 
 ## My Skills
 The programming languages that I am realy good at right now are
@@ -32,3 +32,5 @@ There are the pages that I have built and deployed so far:
 - [A mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0
 - [My Blog](https://traelincoln.github.io/traelincoln).
 - [Sign Up](traelincoln/signup.html) to get simplified straight to your email
+
+[1]: https://traelincoln.github.io/traelincoln
