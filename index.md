@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+> When I am not reading up on aerodynamics, I am studying computer science and web-design. 
 
-You can use the [editor on GitHub](https://github.com/traelincoln/traelincoln/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+My name is **Trevour L Chidoti**, a _Software Developer_ and an _Engineering student_ from Harare.
+I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with HavardX on edX. This is my github account is where I store my files online for easy sharing and hosting. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description. 
 
-### Markdown
+From here you can also: 
+- [Visit my github account][2] where I store the source code for my projects
+- [Chec out a mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0.
+- [Buy me a coffee☕][7]
+- [Play a little game I made][9] -> a horror style, interactive fiction game that let's you pick your own adventure. 
+- Hit me up on Twitter[@traelincoln][8] -> I might be slow but I will reply
+- Or send me an email
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## My Skills
+The programming languages that I am really good with right now:
+  - HTML 
+  - CSS
+  - JAVASCRIPT (including Jquery and Bootstrap)
+  - PYTHON (including DJANGO and machine learning)
+  - PHP
+  - RUBY
+  - C/C++
+  - I am also really cool with Git.
 
-```markdown
-Syntax highlighted code block
+## My Hobbies ⛷️🎿
+I enjoy reading books and designing computer programs and aircraft. 
+> When I am not reading up on aerodynamics, I will be studying computer science and web-design. 
+I like making beautiful interfaces using Bootstrap and Jquery.
+I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, I also like reggae and pop. And movies, I like movies too.
 
-# Header 1
-## Header 2
-### Header 3
+If you want to support any of the projects I am working, please feel free to [**Buy me a coffee!**][7] or send me a message on Twitter [@traelincoln][8] if you would like for us to collaborate, or send me an email.
 
-- Bulleted
-- List
+<form action="https://send.pageclip.co/Lw4ObQcNJKYa8dKDwFAfj3BSHESY0eNG" class="pageclip-form" method="post">
+  <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
+  <div class="mb-3">
+  <label for="username" class="form-label">Your name</label>
+  <input type="text" id="username" name="name" placeholder="John Chimuti" />
+  <label for="email">Email</label>
+  <input type="email" name="email" id="email" placeholder="jchimuti@example.com" />
+  </div>
+  <div class="mb-3">
+  <textarea name="message" rows="3"></textarea>
+  </div>
+  <!-- This button will have a loading spinner. Keep the inner span for best results. -->
+  <button type="submit" class=" btn btn-primary mb-3 pageclip-form__submit">
+    <span>Send</span>
+  </button>
+</form>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/traelincoln/traelincoln/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[1]: https://traelincoln.github.io/traelincoln
+[2]: https://github.com/traelincoln
+[3]: https://github.com/traelincoln/cs50w-websites
+[4]: https://github.com/traelincoln/cs50w-websites/docs
+[5]: https://traelincoln.me
+[6]: https://docs.github.com
+[7]: https://www.buymeacoffee.com/thetraelinO
+[8]: https://www.twitter.com/traelincoln
+[9]: (/games/typeform1.html)
