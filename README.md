@@ -1,4 +1,4 @@
-# traelincoln on Github. 
+# TRAELINCOLN on Github. 
 
 This is my github account where you will find some of my work online.
 
