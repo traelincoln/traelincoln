@@ -12,6 +12,7 @@ You can also visit:
 - [My Blog](https://traelincoln.github.io/traelincoln).
 - [A simple Sign Up page](traelincoln/signup.html) to get The Simplified Blog post, sent straight to your email.
 - [A link to buy me a coffee :coffee:][7]
+- [Play a game](/games/typeform1.html) -> a horror style, interactive fiction game that let's you pick your own adventure. 
 
 ## My Skills
 The programming languages that I am realy good at right now are
