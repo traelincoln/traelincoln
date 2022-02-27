@@ -6,11 +6,11 @@ Please feel free to look around.
 
 ## About Me
 My name is Trevour L Chidoti, a software developer and an Engineering student.
-I am doing **Aeronautical Engineering** with The University of Zimbabwe, and web-development online with HavardX. So, I have a github to store and showcase all my projects online safely.
+I am doing **Aeronautical Engineering** with The University of Zimbabwe, and Web-Development online with HavardX. So, I have a github to store and showcase all my projects online safely.
 I enjoy reading books, designing computer programs and aircraft. 
 When I am not reading up on how to optimize the aerodynamic efficiency, for my third year design project, I will be reading up on web-design. 
 I am really into blogs right now, I am actually working on [my own blog][1] hosted here on Github. 
-I like making beautiful interfaces using Bootstrap and Jquery. you can check out this [mock of the google search][2] page that I made too.
+I like making beautiful interfaces using Bootstrap and Jquery, you can check out this [mock of the google search][2] page that I made too.
 I haven't had the chance to collaborate with anyone yet, so you'd you'd like to work with you can hit me up on Twitter [@traelincoln][3].
 
 ## My Skills
