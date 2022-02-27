@@ -1,7 +1,3 @@
-ines (21 sloc) 794 Bytes
----
-title: Sign Up
----
 <!DOCTYPE html>
 <html>
   <head>
