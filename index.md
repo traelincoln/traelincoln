@@ -1,8 +1,7 @@
 > When I am not reading up on aerodynamics, I am studying computer science and web-design. 
 
 ## About Me
-Hello there, my name is **Trevour L**, I am a _Software Developer_ and an _Engineering Student_ from Harare, and you have found my Github account.
-Github is where I store my files online for easy sharing and hosting. I have been learning computer science for about a year now, by myself and I have had a lot of help from MDN, W3School and Edx.
+Hello there, congratulations, you have found my Github account. My name is **Trevour L**, I am a _Software Developer_ and an _Engineering Student_ from Harare. This Github account is where I store my files online for easy sharing and hosting. I have been learning computer science for about a year now and I have had a lot of help from MDN, W3School, Github, HavardX and Edx.
 
 You can view the files for my learning projects in [my public repositories][2] and the links to the live sites will be in each repository's description. 
 
