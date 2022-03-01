@@ -17,7 +17,7 @@ You can view the files in [my public repositories][2] and the links to the live 
 - [Check out my mock Google Search page](https://traelincoln.github.io/cs50w-websites/)
 - Take a short survey about inflation!
 - [Buy me coffee ☕][7]
-- <button class="btn btn-outline-danger btn-sm">
+- <button class="btn btn-outline-info btn-sm">
       <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}"
         > Play A Game <i class="bi bi-dice-5-fill"></i
       ></a>
@@ -37,8 +37,6 @@ The programming languages that I am really good with right now:
 - RUBY
 - C/C++
 - I am also really cool with Git.
-
-
 
 ## My Hobbies ⛷️🎿
 
