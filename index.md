@@ -3,7 +3,7 @@ title: Traelincoln on Github
 layout: default
 ---
 
-<blockquote class="alert alert-info" style = "text-align: center" > Congratulations, you have found Traelincoln on Github. </blockquote> 
+<blockquote class="alert alert-info" style = "text-align: center" > :tada::sparkles:Congratulations !!!:tada::sparkles: you have found Traelincoln on Github. </blockquote> 
 
 ## About Me
 
@@ -19,7 +19,7 @@ You can view the files in [my public repositories][2] and the links to the live 
 - [Buy me coffee ☕][7]
 - <button class="btn btn-outline-info btn-sm">
       <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}"
-        > Play A Game <i class="bi bi-dice-5-fill"></i
+        > Play A Typeform Game <i class="bi bi-dice-5-fill"></i
       ></a>
     </button>
 - Find me on Twitter [@traelincoln <i class="bi bi-twitter"></i>][8]
