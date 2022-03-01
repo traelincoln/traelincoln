@@ -3,7 +3,7 @@ title: Traelincoln on Github
 layout: default
 ---
 
-<blockquote class="alert alert-info" style = "text-align: center" > :tada::sparkles:Congratulations !!!:tada::sparkles: you have found Traelincoln on Github. </blockquote> 
+<blockquote class="alert alert-info" style = "text-align: center" > 🎉✨Congratulations !!!🎉✨ you have found Traelincoln on Github. </blockquote> 
 
 ## About Me
 
