@@ -1,54 +1,61 @@
-> When I am not reading up on aerodynamics, I am studying computer science and web-design. 
+---
+title: Traelincoln on Github
+layout: default
+---
+
+<blockquote class="alert alert-info" style = "text-align: center" > Congratulations, you have found Traelincoln on Github. </blockquote> 
 
 ## About Me
-My name is **Trevour L Chidoti**, a _Software Developer_ and an _Engineering student_ from Harare.
-I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with HavardX on edX. This is my github account is where I store my files online for easy sharing and hosting. 
 
-You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description. 
+Hello, my name is **Trevour L Chidoti**, a _Software Developer_ and an _Engineering Student_ from Harare.
+I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with [Harvard][11] on [edX][10]. This is my github account is where I store my files online for easy sharing and hosting.
 
-From here you can also: 
-- [Visit my github account][2] where I store the source code for my projects
-- [Chec out a mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0.
-- [Buy me a coffee☕][7]
-- [Play a little game I made][9] -> a horror style, interactive fiction game that let's you pick your own adventure. 
-- Hit me up on Twitter[@traelincoln][8] -> I might be slow but I will reply
-- Or send me an email
+You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description.
+
+From here you can also:
+
+- [Check out my mock Google Search page](https://traelincoln.github.io/cs50w-websites/)
+- Take a short survey about inflation!
+- [Buy me coffee ☕][7]
+- <button class="btn btn-outline-danger btn-sm">
+      <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}"
+        > Play A Game <i class="bi bi-dice-5-fill"></i
+      ></a>
+    </button>
+- Find me on Twitter [@traelincoln <i class="bi bi-twitter"></i>][8]
+- Or send me an <a href="#contact">Email <i class="bi bi-send-plus-fill"></i></a>
 
 ## My Skills
+
 The programming languages that I am really good with right now:
-  - HTML 
-  - CSS
-  - JAVASCRIPT (including Jquery and Bootstrap)
-  - PYTHON (including DJANGO and machine learning)
-  - PHP
-  - RUBY
-  - C/C++
-  - I am also really cool with Git.
+
+- HTML
+- CSS
+- JAVASCRIPT (including Jquery and Bootstrap)
+- PYTHON (including DJANGO and machine learning)
+- PHP
+- RUBY
+- C/C++
+- I am also really cool with Git.
 
 ## My Hobbies ⛷️🎿
-I enjoy reading books and designing computer programs and aircraft. 
-> When I am not reading up on aerodynamics, I will be studying computer science and web-design. 
-I like making beautiful interfaces using Bootstrap and Jquery.
-I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, I also like reggae and pop. And movies, I like movies too.
 
-If you want to support any of the projects I am working, please feel free to [**Buy me a coffee!**][7] or send me a message on Twitter [@traelincoln][8] if you would like for us to collaborate, or send me an email.
+I enjoy reading books and designing computer programs and aircraft. I like making beautiful interfaces using Bootstrap and Jquery, and making games and quizzes.
 
-<form action="https://send.pageclip.co/Lw4ObQcNJKYa8dKDwFAfj3BSHESY0eNG" class="pageclip-form" method="post">
-  <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
-  <div class="mb-3">
-  <label for="username" class="form-label">Your name</label>
-  <input type="text" id="username" name="name" placeholder="John Chimuti" />
-  <label for="email">Email</label>
-  <input type="email" name="email" id="email" placeholder="jchimuti@example.com" />
-  </div>
-  <div class="mb-3">
-  <textarea name="message" rows="3"></textarea>
-  </div>
-  <!-- This button will have a loading spinner. Keep the inner span for best results. -->
-  <button type="submit" class=" btn btn-primary mb-3 pageclip-form__submit">
-    <span>Send</span>
-  </button>
-</form>
+> When I am not reading up on aerodynamics, I am studying computer science and web-design.
+
+I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, I also like reggae and pop. And movies, I like movies too. I want to build community based apps that can help people perform everyday tasks more efficiently and also save money.
+
+
+
+If you want to collaborate or support any of the projects I am working, please feel free to *Get in Touch*
+
+---
+
+<h3 id="contact">Contact Form</h3>
+{% include emailform.html %}
+
+{% include pageclip-foot.html %}
 
 [1]: https://traelincoln.github.io/traelincoln
 [2]: https://github.com/traelincoln
@@ -58,4 +65,6 @@ If you want to support any of the projects I am working, please feel free to [**
 [6]: https://docs.github.com
 [7]: https://www.buymeacoffee.com/thetraelinO
 [8]: https://www.twitter.com/traelincoln
-[9]: (/games/typeform1.html)
+[9]: games/typeform1.html
+[10]: https://edx.org/cs50
+[11]: https://cs50.harvard.edu/web/2020
