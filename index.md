@@ -12,7 +12,7 @@ I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am 
 
 You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description.
 
-From here you can also:
+<span id="links">From here you can also:<span>>
 
 - [Check out my mock Google Search page](https://traelincoln.github.io/cs50w-websites/)
 - Take a short survey about inflation!
@@ -38,6 +38,8 @@ The programming languages that I am really good with right now:
 - C/C++
 - I am also really cool with Git.
 
+
+
 ## My Hobbies ⛷️🎿
 
 I enjoy reading books and designing computer programs and aircraft. I like making beautiful interfaces using Bootstrap and Jquery, and making games and quizzes.
@@ -47,8 +49,8 @@ I enjoy reading books and designing computer programs and aircraft. I like makin
 I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, I also like reggae and pop. And movies, I like movies too. I want to build community based apps that can help people perform everyday tasks more efficiently and also save money.
 
 
-
-If you want to collaborate or support any of the projects I am working, please feel free to *Get in Touch*
+## Get In Touch
+If you'd like for us to work together, support any of my projects, or to just have a chat, please feel free to *Get in Touch* with the contact form below or the <a href="#links">links at top.</a> 
 
 ---
 
