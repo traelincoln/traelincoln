@@ -2,20 +2,20 @@
 
 ## About Me
 Hello there, my name is **Trevour L**, I am a _Software Developer_ and an _Engineering Student_ from Harare, and you have found my Github account.
-Github is where I store my files online for easy sharing and hosting. 
+Github is where I store my files online for easy sharing and hosting. I have been learning computer science for about a year now, by myself and I have had a lot of help from MDN, W3School and Edx.
 
-You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description. 
+You can view the files for my learning projects in [my public repositories][2] and the links to the live sites will be in each repository's description. 
 
 From here you can also: 
 - [Visit my github account][2] where I store the source code for my projects
-- [Chec out a mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0.
-- [Buy me a coffee☕][7]
-- [Play a little game I made ](/games/typeform1.html) -> a horror style, interactive fiction game that let's you pick your own adventure. 
+- [Check out a mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0.
+- [Buy me a coffee☕][7] -> not manditory!
+- [Play a little game I made ](/games/typeform1.html) -> Its a really fun horror style, interactive fiction game that I made using a typeform template, you should try it! 
 - Hit me up on Twitter[@traelincoln][8] -> I might be slow but I will reply
-- Or send me an email
+- Or send me an email on the form down below.
 
 ## My Skills
-The programming languages that I am really good with right now:
+The programming languages that I have become really good with so far include:
   - HTML 
   - CSS
   - JAVASCRIPT (including Jquery and Bootstrap)
@@ -24,6 +24,9 @@ The programming languages that I am really good with right now:
   - RUBY
   - C/C++
   - I am also really cool with Git.
+
+
+
 
 ## My Hobbies ⛷️🎿
 I enjoy reading books and designing computer programs and aircraft. 
