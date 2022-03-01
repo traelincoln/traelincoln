@@ -1,8 +1,8 @@
 > When I am not reading up on aerodynamics, I am studying computer science and web-design. 
 
 ## About Me
-My name is **Trevour L Chidoti**, a _Software Developer_ and an _Engineering student_ from Harare.
-I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with HavardX on edX. This is my github account is where I store my files online for easy sharing and hosting. 
+My name is **Trevour**, a _Software Developer_ and an _Engineering Student_ from Harare.
+_Web Development_ online using `Python` and `Javascript` with HavardX on edX. This is my github account is where I store my files online for easy sharing and hosting. 
 
 You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description. 
 
