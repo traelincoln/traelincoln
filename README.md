@@ -5,7 +5,7 @@ This is my github account where you will find some of my work online.
 Please feel free to look around.
 
 ## About Me
-My name is Trevour, a software developer and an Engineering student.
+My name is Trevour L Chidoti, a software developer and an Engineering student.
 I am learning Web-Development online with HavardX so, I have a github to store and showcase all my projects online safely.
 I enjoy reading books, designing computer programs and aircraft.
 When I am not reading up on how to optimize the aerodynamic efficiency, for my third year design project, I will be reading up on web-design. 
