@@ -6,4 +6,37 @@
 a {
   text-decoration: none !important;
 }
-html { background: #6C7989 !important; background: #6C7989 linear-gradient(#6C7989, #434B55) fixed !important; height: 100%; }
+ body {
+   font-weight: 400;
+ }
+
+ code {
+  color: #d63384;
+ }
+
+ h1 {
+   font-weight: 800;
+ }
+
+ h2 {
+   font-weight: 550;
+ }
+h3 {
+  font-weight: 450;
+}
+
+button.inline {
+  display: inline-block;
+  width: fit-content;
+  margin: auto;
+}
+
+header h1 {
+  direction: inline-block;
+  width: fit-content;
+}
+@media (min-width: 580px) {
+  #play_a_game{
+    display: none;
+  }
+}

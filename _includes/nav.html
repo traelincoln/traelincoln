@@ -1,22 +1,25 @@
 
   <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
     <h1>{{ site.title | default: site.github.repository_name }}</h1>
-    {% if site.description or site.github.project_tagline %}
-      <p>{{ site.description | default: site.github.project_tagline }}</p>
+    {% if page.tagline or site.tagline %}
+      <p>{{ page.tagline | default: site.tagline }}</p>
     {% endif %}
     <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
+
+   
+    <button class="me-3 mt-3 inline btn btn-outline-info">
+      <a href="https://twitter.com/traelincoln" alt="traelincoln on twitter">@traelincoln <i class="bi bi-twitter"></i></a>
+      </button>
+      <button id="play_a_game" class="mt-3 inline btn btn-outline-warning">
+        <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}">Play A Game <i class="bi bi-dice-5-fill"></i
+        ></a>
+    </button>
     <ul>
-      <li>
-        <button class="btn btn-danger btn-sm">
-          <a href="{{ '/games/typeform1.html' | relative_url }}"
-            >Play A Game <i class="bi bi-dice-5-fill"></i
-          ></a>
-        </button>
-      </li>
     {% if site.show_downloads %}
-      <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>-->
-      <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-    {% endif %}
-      <li><a href="{{ site.github.repository_url }}">View On my <strong>GitHub</strong></a></li>
+      
+      <li class="bg-warning bg-gradient"><a href="{{ '/games/typeform1.html' | relative_url }}"">PLAY <strong>A GAME</strong></a></li>
+    <!--<li class="bg-success bg-gradient"><a href="{{ site.github.tar_url }}">Take <strong>A Quiz</strong></a></li>
+    {% endif %}-->
+      <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
     </ul>
   </header>
