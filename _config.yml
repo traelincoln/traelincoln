@@ -2,17 +2,12 @@ title: Traelincoln on Github
 description: Where I store and share my work online
 theme: jekyll-theme-modernist
 destination: docs
-github: [metadata]
-layout: default
+
+show_downloads: true
+
+repository: traelincoln/traelincoln
 
 
-# my custom defaults
 
-defaults:
-  - 
-    scope: 
-        path: ""
-    values:
-      my_pageclip: true
 
 

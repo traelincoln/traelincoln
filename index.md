@@ -47,15 +47,11 @@ I enjoy reading books and designing computer programs and aircraft. I like makin
 I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, I also like reggae and pop. And movies, I like movies too. I want to build community based apps that can help people perform everyday tasks more efficiently and also save money.
 
 
-## Get In Touch
-If you'd like for us to work together, support any of my projects, or to just have a chat, please feel free to *Get in Touch* with the contact form below or the <a href="#links">links at top.</a> 
-
 ---
 
-<h3 id="contact">Contact Form</h3>
-{% include emailform.html %}
 
-{% include pageclip-foot.html %}
+
+
 
 [1]: https://traelincoln.github.io/traelincoln
 [2]: https://github.com/traelincoln
