@@ -3,13 +3,13 @@ title: Traelincoln on Github
 layout: default
 ---
 
-<blockquote class="alert alert-info description" style = "text-align: center" >✨Congratulations!🎉You have found Traelincoln on Github <i class="bi bi-github"></i>.
-<br/>This is where I store files and share links.</blockquote>
+<blockquote class="alert alert-info description" style = "text-align: center" >✨Yey!🎉You've found Traelincoln on Github <i class="bi bi-github"></i>
+<br/>This is where I hide all the cool stuff 📦</blockquote>
 
 ## About Me 👋🏿👋🏿
 
 Hello, my name is **Trevour L Chidoti**, I am a _Software Developer_ and an _Engineering Student_ from Harare.
-I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with [Harvard][11] on [edX][10]. This is my github account is where I store my code online for easy sharing and hosting. You can view the files in [my public repositories][2] and the links to the live sites will be in each repository's description.
+I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with [Harvard][11] on [edX][10]. This is my github account is where I store my code online for easy sharing and hosting. You can view the files in [my public repositories][2] and the links will be in project description.
 
 ## My Skills 👨🏿‍💻👨🏿‍💻
 
