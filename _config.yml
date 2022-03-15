@@ -4,7 +4,8 @@ theme: jekyll-theme-modernist
 destination: docs
 github: [metadata]
 layout: default
-
+baseurl: trevourchidoti.me
+url: "/"
 
 # my custom defaults
 
