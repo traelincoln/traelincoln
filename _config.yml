@@ -36,6 +36,11 @@ plugins:
   - jekyll-feed
   - "jekyll-github-metadata"
 show_downloads: true
+destination: docs/
+github: [metadata]
+layout: default
+
+# my custom defaults
 
 # Collections
 collections:
