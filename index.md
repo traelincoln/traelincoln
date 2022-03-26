@@ -3,15 +3,19 @@ title: Traelincoln on Github
 layout: default
 ---
 
-<blockquote class="alert alert-info description" style = "text-align: center" >✨Yey!🎉You've found Traelincoln on Github <i class="bi bi-github"></i>
-<br/>This is where I hide all the cool stuff 📦</blockquote>
+<blockquote class="alert alert-info description" style = "text-align: center" >✨Congratulations!!!🎉 You've found Traelincoln on Github <i class="bi bi-github"></i></blockquote>
 
-## About Me 👋🏿👋🏿
+# Welcome 👋🏿
+Hello, my name is **Trevour L Chidoti**, welcome to my Github pages profile page. Please feel free to look around. 
 
-Hello, my name is **Trevour L Chidoti**, I am a _Software Developer_ and an _Engineering Student_ from Harare.
-I am doing _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with [Harvard][11] on [edX][10]. This is my github account is where I store my code online for easy sharing and hosting. You can view the files in [my public repositories][2] and the links will be in project description.
+Github is where I, and many other software devolpers, like to store our software online for easy sharing and hosting. So, I have made this page as a short profile about my self and a linktree to all my code, online projects.
+You can view the files in [my public repositories][2] and the links will be in project description or down at the links section down below.
 
-## My Skills 👨🏿‍💻👨🏿‍💻
+# About Me 👨🏿‍💻
+I am a _Software Developer_ and an _Engineering Student_ from Harare.
+I am studying _Aeronautical Engineering_ with The University of Zimbabwe, and I am also learning _Web Development_ online using `Python` and `Javascript` with [Harvardx][11] on [edX][10]. 
+
+# My Skills 👨🏿‍💻
 
 The programming languages that I am really good with so far are:
 
@@ -24,36 +28,31 @@ The programming languages that I am really good with so far are:
 - ```C/C++```
 - I am also really good with ```Git``` <i class="bi bi-git text-danger"></i>.
 
-<blockquote class="alert alert-danger"><i class="bi bi-info-circle"></i> I am still working on my portfolio, but you will find it here when I have work to showcase.</blockquote>
-
 ---
 
-## My Hobbies ⛷️🎿
+# My Hobbies ⛷️🎿
 
 I enjoy reading books and designing computer programs and aircraft. I like making beautiful interfaces using Bootstrap and Jquery, and making games and quizzes. I also enjoy taking pictures, going for walks and listening to music. I'm a Hip-Hop and RNB guy, and I like movies too.
 
 > When I am not reading up on aerodynamics, I am studying computer science and web-design.
 
 
-<h2> Links <i class="bi bi-hand-index"></i></h2>
+# Links <i class="bi bi-hand-index"></i>
 
 - [Check out my Mock Google Search page](https://traelincoln.github.io/cs50w-websites/)
-#- Take a short survey about inflation!
 - [Buy me coffee ☕][7]
-- <button class="btn btn-outline-info btn-sm">
-      <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}"> Play A Typeform Game <i class="bi bi-dice-5-fill"></i
-      ></a>
-  </button>
+- <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}"> Play A Typeform Game <i class="bi bi-dice-5-fill"></i>
 - Find me on Twitter [@traelincoln <i class="bi bi-twitter"></i>][8]
 - Or send me an <a href="#contact">Email <i class="bi bi-send-plus-fill"></i></a>
 
-### For Further browsing
+## For Further browsing
+
   - [My Mock Google Search Page](https://traelincoln.github.io/cs50-websites) 
   - [Github](https://github.com)
   - [Jekyll](https:/jekyllrb.com/)
   - [Edx](https://edx.org) 
   - [Khan Academy](https://khanacademy.org) 
-  - [Mozilla Docs Network](https://mdn.org) 
+  - [Mozilla Docs Network](https://developer.mozilla.org/en-US/) 
   - [The Internet Archive](https://archive.org) 
   - [Wikipedia](https://www.wikipedia.org) 
   - [Pdfdrive](https://pdfdrive.com)

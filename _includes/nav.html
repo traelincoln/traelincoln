@@ -5,8 +5,8 @@
       <p>{{ page.tagline | default: site.tagline }}</p>
     {% endif %}
     <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
-
-   
+ 
+   <div class="social-media">
     <button class="me-3 mt-3 inline btn btn-outline-info">
       <a href="https://twitter.com/traelincoln" alt="traelincoln on twitter">@traelincoln <i class="bi bi-twitter"></i></a>
       </button>
@@ -14,6 +14,8 @@
         <a style="text-decoration: none" href="{{ '/games/typeform1.html' | relative_url }}">Play A Game <i class="bi bi-dice-5-fill"></i
         ></a>
     </button>
+   </div>
+    
     <ul>
     {% if site.show_downloads %}
       

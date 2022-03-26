@@ -343,6 +343,7 @@ DEPENDENCIES
   bootstrap (~> 4.3.1)
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-github-metadata (~> 2.13)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)

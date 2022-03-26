@@ -21,11 +21,11 @@
 title: Traelincoln on Github
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Profile Page for Trevour L Chidoti's a.k.a. Traelincoln, from where you can be directed to his other works and accounts on the internet. This website is hosted on Github Pages. 
+  The Profile Page for Trevour Lincoln Chidoti, from where you can be directed to his other works and accounts on the internet. This website is hosted on Github Pages. 
 
 tagline: A Github profile page
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://traelincoln.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/traelincoln/" # the subpath of your site, e.g. /blog
+url: "trevourchidoti.me" # the base hostname & protocol for your site, e.g. http://example.com
 destination: docs/
 twitter_username: traelincoln
 github_username:  traelincoln
@@ -34,13 +34,14 @@ repository: traelincoln/traelincoln
 theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
+  - "jekyll-github-metadata"
 show_downloads: true
 
 # Collections
-# collections:
-#  birds:
-#    output: true
-
+collections:
+  posts:
+    output: true
+    permalink: /blog/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
