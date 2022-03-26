@@ -1,5 +1,5 @@
 # This Branch is live on github pages
-## <https://traelincoln.github.io/traelincoln>
+## <https://trevourchidoti.me/>
 This a personal profile profile page. 
 It uses jekyll and the modernist theme by orderedlist 
 The main content is in the [index.md](./index) file and other components are rendered from there using includes.
