@@ -1,7 +1,6 @@
---
-Title: The Secretary problem.
+---
+title: The Secretary problem.
 Subtitle: The Problem Of Marriage Part 1. 
---
-
+---
 
 

@@ -21,10 +21,10 @@
 title: Traelincoln on Github
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Profile Page for Trevour Lincoln Chidoti, from where you can be directed to his other works and accounts on the internet. This website is hosted on Github Pages. 
+  The profile page for Trevour Lincoln Chidoti, where you can be find links to all his other works and accounts on the internet. This website is hosted on Github Pages. 
 
 tagline: A Github profile page
-baseurl: "/traelincoln/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "trevourchidoti.me" # the base hostname & protocol for your site, e.g. http://example.com
 destination: docs/
 twitter_username: traelincoln
@@ -39,14 +39,31 @@ show_downloads: true
 destination: docs/
 github: [metadata]
 layout: default
+excerpt_separator: <--excerpt-->
+
+
 
 # my custom defaults
 
 # Collections
 collections:
-  posts:
+  collections_dir: my_collections 
+  typeforms:
+    permalink: /:label/:title
+    output: true
+  posts: 
+    permalink: /blog/:title
+    output: true
+  drafts: 
     output: true
     permalink: /blog/:title
+  articles: 
+    permalink: /blog/:title
+    output: true
+
+    
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

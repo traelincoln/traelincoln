@@ -1,0 +1,12 @@
+---
+permalink: site.url/typeforms
+layout: default
+---
+
+{% for typeform in site.typeforms %}
+
+  <h2>
+    <a href="{{ typeform.url }}" >{{ typeform.title }}</a>
+  </h2>
+
+{% endfor %}
