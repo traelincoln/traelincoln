@@ -5,7 +5,7 @@ destination: docs
 github: [metadata]
 layout: default
 baseurl: trevourchidoti.me
-url: "/"
+url: ""
 
 # my custom defaults
 
