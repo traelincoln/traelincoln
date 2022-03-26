@@ -3,7 +3,7 @@
 This is my github account where you will find some of my work online.
 
 Please feel free to look around.
-See the [gh-pages branch](https://github.com/traelincoln/traelincoln/tree/gh-pages/) for the source code for my live profile page site. Or view it live here <https://traelincoln.github.io/traelincoln>
+See the [gh-pages branch](https://github.com/traelincoln/traelincoln/tree/gh-pages/) for the source code for my live profile page site. Or view it live here <https://trevourchidoti.me>
 
 ## About Me
 My name is Trevour L Chidoti, a software developer and an Engineering student.
