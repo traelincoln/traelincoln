@@ -30,10 +30,10 @@ Outside of school I also enjoy taking pictures, going for walks, reading novels 
 
 ## My Pages
 There are the pages that I have built and deployed so far:
-- [A mock Google Search page](https://traelincoln.github.io/cs50w-websites/) that I made for cs50w project 0
-- [My Blog](https://traelincoln.github.io/traelincoln/)
+- [A mock Google Search page](https://trevourchidoti.me/cs50w-websites/) that I made for cs50w project 0
+- [My Blog](https://trevourchidoti.me/traelincoln/)
 - [An Interactive Fiction](https://traelincoln.github.io/traelincoln/typeform1.html/) text based game that I made using typeform 
 
-[1]: https://traelincoln.github.io/traelincoln/
-[2]: https://traelincoln.github.io/cs50w-websites/
+[1]: https://trevourchidoti.me
+[2]: https://trevourchidoti.me/cs50w-websites/
 [3]: https://twitter.com/traelicoln/
