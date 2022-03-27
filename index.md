@@ -5,6 +5,11 @@ layout: default
 
 <blockquote class="alert alert-info description" style = "text-align: center" >✨Congratulations!!!🎉 You've found Traelincoln on Github <i class="bi bi-github"></i></blockquote>
 
+{% for collection in site.collections %}
+
+{{ collection.label }}
+
+{% endfor %}
 # Welcome 👋🏿
 Hello, my name is **Trevour L Chidoti**, welcome to my Github pages profile page. Please feel free to look around. 
 
@@ -37,7 +42,7 @@ I enjoy reading books and designing computer programs and aircraft. I like makin
 > When I am not reading up on aerodynamics, I am studying computer science and web-design.
 
 
-# Links <i class="bi bi-hand-index"></i>
+# Links
 
 - [Check out my Mock Google Search page](https://traelincoln.github.io/cs50w-websites/)
 - [Buy me coffee ☕][7]

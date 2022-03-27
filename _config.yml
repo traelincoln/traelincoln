@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Traelincoln on Github
+title: Trevour L Chidoti
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The profile page for Trevour Lincoln Chidoti, where you can be find links to all his other works and accounts on the internet. This website is hosted on Github Pages. 
@@ -44,10 +44,10 @@ excerpt_separator: <--excerpt-->
 
 
 # my custom defaults
+collections_dir: my_collections
 
 # Collections
 collections:
-  collections_dir: my_collections 
   typeforms:
     permalink: /:label/:title
     output: true
@@ -56,9 +56,9 @@ collections:
     output: true
   drafts: 
     output: true
-    permalink: /blog/:title
+    permalink: /blog/drafts/:title
   articles: 
-    permalink: /blog/:title
+    permalink: /blog/:label/:title
     output: true
 
     
