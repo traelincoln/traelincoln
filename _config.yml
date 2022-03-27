@@ -41,7 +41,7 @@ github: [metadata]
 layout: default
 excerpt_separator: <--excerpt-->
 
-
+pageclip: true
 
 # my custom defaults
 collections_dir: my_collections
@@ -54,12 +54,25 @@ collections:
   posts: 
     permalink: /blog/:title
     output: true
+    pageclip: false
+    comments: true
   drafts: 
     output: true
     permalink: /blog/drafts/:title
+    comments: true
   articles: 
     permalink: /blog/:label/:title
     output: true
+    pageclip: false
+
+navigation: 
+  - title: Home
+    href: '/'
+  - title: Blog
+    href: /blog/
+  - title: Forms and Surveys
+    href: /typeforms/
+      
 
     
 

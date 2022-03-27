@@ -5,11 +5,6 @@ layout: default
 
 <blockquote class="alert alert-info description" style = "text-align: center" >✨Congratulations!!!🎉 You've found Traelincoln on Github <i class="bi bi-github"></i></blockquote>
 
-{% for collection in site.collections %}
-
-{{ collection.label }}
-
-{% endfor %}
 # Welcome 👋🏿
 Hello, my name is **Trevour L Chidoti**, welcome to my Github pages profile page. Please feel free to look around. 
 
@@ -52,15 +47,15 @@ I enjoy reading books and designing computer programs and aircraft. I like makin
 
 ## For Further browsing
 
-  - [My Mock Google Search Page](https://traelincoln.github.io/cs50-websites) 
+  - [My Mock Google Search Page](https://traelincoln.github.io/cs50w-websites) 
   - [Github](https://github.com)
-  - [Jekyll](https:/jekyllrb.com/)
+  - [Jekyll](https://jekyllrb.com/)
   - [Edx](https://edx.org) 
   - [Khan Academy](https://khanacademy.org) 
   - [Mozilla Docs Network](https://developer.mozilla.org/en-US/) 
   - [The Internet Archive](https://archive.org) 
   - [Wikipedia](https://www.wikipedia.org) 
-  - [Pdfdrive](https://pdfdrive.com)
+  
 
 ---
 
@@ -68,10 +63,10 @@ I enjoy reading books and designing computer programs and aircraft. I like makin
 [2]: https://github.com/traelincoln
 [3]: https://github.com/traelincoln/cs50w-websites
 [4]: https://github.com/traelincoln/cs50w-websites/docs
-[5]: https://traelincoln.me
+[5]: https://trevourchidoti.me
 [6]: https://docs.github.com
 [7]: https://www.buymeacoffee.com/thetraelinO
 [8]: https://www.twitter.com/traelincoln
-[9]: games/typeform1.html
+[9]: {{site.typeforms.first.url}}
 [10]: https://edx.org/cs50
 [11]: https://cs50.harvard.edu/web/2020
