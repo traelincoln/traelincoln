@@ -33,10 +33,10 @@ repository: traelincoln/traelincoln
 #Build settings
 theme: jekyll-theme-modernist
 plugins:
-  - jekyll-feed
+  - "jekyll-feed"
   - "jekyll-github-metadata"
+  - "jekyll-seo-tag ~> 2.6"
 show_downloads: true
-destination: docs/
 github: [metadata]
 layout: default
 excerpt_separator: <--excerpt-->
@@ -49,21 +49,13 @@ collections_dir: my_collections
 # Collections
 collections:
   typeforms:
-    permalink: /:label/:title
     output: true
   posts: 
-    permalink: /blog/:title
     output: true
-    pageclip: false
-    comments: true
   drafts: 
     output: true
-    permalink: /blog/drafts/:title
-    comments: true
   articles: 
-    permalink: /blog/:label/:title
     output: true
-    pageclip: false
 
 navigation: 
   - title: Home
