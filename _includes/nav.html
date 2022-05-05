@@ -1,6 +1,6 @@
 
   <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-    <h1><a href="{{ site.url }}" >{{ site.title | default: site.github.repository_name }}</a></h1>
+    <h1><a href="{{ site.url | absolute_url }}" >{{ site.title | default: site.github.repository_name }}</a></h1>
     {% if page.tagline or site.tagline %}
       <p>{{ page.tagline | default: site.tagline }}</p>
     {% endif %}
@@ -15,15 +15,14 @@
         <a style="text-decoration: none" href="{{ site.typeforms.first.url }}">Play A Game <i class="bi bi-dice-5-fill"></i
         ></a>
     </button>
-    <!--
    </div>
     <ul id="download">
     {% if site.show_downloads %}
       <li class="bg-warning bg-gradient"><a href="{{ site.typeforms.first.url }}">PLAY <strong>A GAME</strong></a></li>
-    <li class="bg-success bg-gradient"><a href="{{ site.github.tar_url }}">Download<strong>Tar Bar</strong></a></li>
+    <!--<li class="bg-success bg-gradient"><a href="{{ site.github.tar_url }}">Download<strong>Tar Bar</strong></a></li>-->
     {% endif %}
       <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-    </ul>-->
+    </ul>
   </header>
 <!--
   <ul class="bg-light nav nav-pills nav-fill">
